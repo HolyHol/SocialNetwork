@@ -1,0 +1,8 @@
+.sidebar {
+  grid-area: sidebar;
+  background-color: rgb(223, 164, 174);
+}
+
+.item {
+  color: white;
+}
