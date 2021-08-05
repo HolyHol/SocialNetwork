@@ -1,5 +1,10 @@
+.myPostsWrapper {
+  padding: 12px;
+}
+
 .item {
-  color:rgb(34, 6, 6);
+  color: rgb(34, 6, 6);
+  margin-top: 10px;
 }
 
 .heading {

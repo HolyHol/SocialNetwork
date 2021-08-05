@@ -1,8 +1,15 @@
 .sidebar {
   grid-area: sidebar;
   background-color: rgb(223, 164, 174);
+  padding: 20px;
 }
 
-.item {
+.item a {
   color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.item a.activeLink {
+  color: peachpuff;
 }
